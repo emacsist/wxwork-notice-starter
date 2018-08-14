@@ -2,7 +2,7 @@
 
 这是一个使用企业微信作为发送通知的 starter
 
-注意, 这个只能在 Spring Boot 版本中使用 且 > `2.0.3-release` 版本
+注意, 这个只在 Spring Boot 版 `2.0.3-release` 中测试过.
 
 # 使用
 
